@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ambarishpk09
+- 👋 Hi, I’m @ambarish
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning devops
 
